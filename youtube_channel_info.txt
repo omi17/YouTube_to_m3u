@@ -25,3 +25,6 @@ https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
 ZoomOn News | Marathi |https://raw.githubusercontent.com/omi17/omi17.github.io/master/zoomon.jpg |
 https://www.youtube.com/c/zoomonnews/live
+
+News State Maharashtra| Marathi |https://raw.githubusercontent.com/omi17/omi17.github.io/master/news%20state.jpg|
+https://youtube.com/@NewsStateMaharashtraLive
