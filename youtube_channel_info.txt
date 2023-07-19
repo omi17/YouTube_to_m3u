@@ -2,27 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Jai Maharashtra | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/jai%20maha.jpg |
-https://www.youtube.com/channel/UCmBLIcqOLWwrrAJ-jaCttqw/live
-
-Zee 24 Taas | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/Zee24_logo.jpg |
-https://www.youtube.com/watch?v=80Q3UDSQLeA
-
-TV9 Marathi | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/tv9.jpg |
-https://www.youtube.com/watch?v=PXRUc5O4J84
-
-News18 Lokmat | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/lokmat.jpg |
-https://www.youtube.com/watch?v=24ZA8rzAQ70
-
-ABP MAZHA | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/abp-marathi-og.jpg |
-https://www.youtube.com/watch?v=xs9sfDHK2N0
-
-Saam TV | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/saam.png |
-https://www.youtube.com/watch?v=LSEmSi9lJg0
-
-Lokshahi News | Marathi | https://raw.githubusercontent.com/omi17/omi17.github.io/master/lokshahi.png |
-https://www.youtube.com/@LokshahiMarathi/live
-
 ZoomOn News | Marathi |https://raw.githubusercontent.com/omi17/omi17.github.io/master/zoomon.jpg |
 https://www.youtube.com/c/zoomonnews/live
 
