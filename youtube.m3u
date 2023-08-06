@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://raw.githubusercontent.com/omi17/omi17.github.io/master/zoomon.jpg" tvg-id="", ZoomOn News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691346481/ei/0ZHPZIDZEsf8ir4P5IYx/ip/40.84.171.31/id/g5rGw6SG5D8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyrA3c2yorvFa4fy41IS0cl0TbxNl-fqsWXrqg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362686%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgD4BMadMO26_Fz2080JlCkbzeU14tkb2QJZWt783pkxQCIDVf63QApTEVW13Nx74kIZkqgtm2WCnNNjehHvsO6hmu/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691356528/ei/ELnPZP-WGPuTlu8PpsKHkA8/ip/23.102.139.112/id/g5rGw6SG5D8.1/source/yt_live_broadcast/requiressl/yes/tx/51000488/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8ogOAKDMOswFJ-0VWl91xESdtRGXqhemJNGCg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMezD-qfumZwPoJ_wfabla4Wp0lGpjdhqp17vnr87fIZAiEA1RN8TajNx8im6x9APN7JpWOchdHxOiiAUOg8JsbSVbc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://raw.githubusercontent.com/omi17/omi17.github.io/master/news%20state.jpg" tvg-id="", News State Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
