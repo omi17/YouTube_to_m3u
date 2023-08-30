@@ -8,5 +8,5 @@ https://www.youtube.com/c/zoomonnews/live
 News State Maharashtra| Marathi |https://raw.githubusercontent.com/omi17/omi17.github.io/master/news%20state.jpg|
 https://youtube.com/@NewsStateMaharashtraLive/live
 
-Pudhari News | Marathi | |
+Pudhari News | Marathi |https://raw.githubusercontent.com/omi17/omi17.github.io/master/pudhari.png|
 https://youtube.com/@pudhari_news/live
