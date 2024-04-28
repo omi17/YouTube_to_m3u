@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://raw.githubusercontent.com/omi17/omi17.github.io/master/zoomon.jpg" tvg-id="", ZoomOn News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714349998/ei/TpMuZqq_COvZybgPlYaKsAo/ip/172.183.106.196/id/tRCcw48yAgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Rv5IoFGS5s7BjO4e1CCV7OHpR2PR8m3YcBIZmI0HfWab7dKqAYWP-l/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOI4VKDqpzmE3hAb3lrx1gBjdlKrMLWq7XeoWNaJtxoeAiBJV-nqi9VaRf7_a7E-EOsLPCVG7QYUbIVrxm-botWl-Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://raw.githubusercontent.com/omi17/omi17.github.io/master/news%20state.jpg" tvg-id="", News State Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://raw.githubusercontent.com/omi17/omi17.github.io/master/pudhari.png" tvg-id="", Pudhari News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714349999/ei/T5MuZvvRLZ2Nlu8Ptp2vmA8/ip/172.183.106.196/id/KA1AnZc9-44.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118567/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-kB17rEs0OEcMjnzn9TnqCF0i1-Q3zQ2oz1Rz91HiPSP_DkxGwRLlUu/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbQSr6xYgTRe0BTE8GGmvtx1z3Yave-LgGsSfjxjlj_8CIQC_R1svKS6VN58lH1S9iCTPdOVaglCFoSnAWAGYTIwnUA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
